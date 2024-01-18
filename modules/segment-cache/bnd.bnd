@@ -1,0 +1,3 @@
+Bundle-Name: segment-cache
+Bundle-SymbolicName: com.liferay.samples.fbo.segment.cache
+Bundle-Version: 1.0.0
